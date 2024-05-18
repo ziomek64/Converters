@@ -1,0 +1,206 @@
+#EXTM3U url-tvg="only4;iptvx.one"
+#EXTINF:-1 group-title="Polska" tvg-id="13Ulica.pl" tvg-logo="http://1lot.tv/ch/6333.png" catchup="shift" catchup-days="1" ,13 Ulica [PL]
+http://s.only4.tv/6333/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="ActiveFamily.pl" tvg-logo="http://1lot.tv/ch/6334.png" catchup="shift" catchup-days="1" ,Active Family [PL]
+http://s.only4.tv/6334/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="AleKino.pl" tvg-logo="http://1lot.tv/ch/6335.png" catchup="shift" catchup-days="1" ,Ale Kino+ HD [PL]
+http://s.only4.tv/6335/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="AnimalPlanet.pl" tvg-logo="http://1lot.tv/ch/6336.png" catchup="shift" catchup-days="1" ,Animal Planet HD [PL]
+http://s.only4.tv/6336/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="AXN.pl" tvg-logo="http://1lot.tv/ch/6337.png" catchup="shift" catchup-days="1" ,AXN [PL]
+http://s.only4.tv/6337/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="AXNBlack.pl" tvg-logo="http://1lot.tv/ch/6338.png" catchup="shift" catchup-days="1" ,AXN Black [PL]
+http://s.only4.tv/6338/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="AXNWhite.pl" tvg-logo="http://1lot.tv/ch/6339.png" catchup="shift" catchup-days="1" ,AXN White [PL]
+http://s.only4.tv/6339/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="AXNSpin.pl" tvg-logo="http://1lot.tv/ch/6340.png" catchup="shift" catchup-days="1" ,AXNSpinHD [PL]
+http://s.only4.tv/6340/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="BBCEarth.pl" tvg-logo="http://1lot.tv/ch/6341.png" catchup="shift" catchup-days="1" ,BBC Earth HD [PL]
+http://s.only4.tv/6341/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="BBC.pl" tvg-logo="http://1lot.tv/ch/6342.png" catchup="shift" catchup-days="1" ,BBC HD [PL]
+http://s.only4.tv/6342/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="CanalPlus.pl" tvg-logo="http://1lot.tv/ch/6343.png" catchup="shift" catchup-days="1" ,Canal+ Premium HD [PL]
+http://s.only4.tv/6343/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="CanalPlusDiscovery.pl" tvg-logo="http://1lot.tv/ch/6344.png" catchup="shift" catchup-days="1" ,Canal + Dokument HD [PL]
+http://s.only4.tv/6344/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="CanalPlusFamily.pl" tvg-logo="http://1lot.tv/ch/6345.png" catchup="shift" catchup-days="1" ,Canal+ Family HD [PL]
+http://s.only4.tv/6345/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="CanalPlusFilm.pl" tvg-logo="http://1lot.tv/ch/6346.png" catchup="shift" catchup-days="1" ,Canal+ Film HD [PL]
+http://s.only4.tv/6346/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="CanalPlusSeriale.pl" tvg-logo="http://1lot.tv/ch/6347.png" catchup="shift" catchup-days="1" ,Canal+ Seriale HD [PL]
+http://s.only4.tv/6347/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="canal-pl-sport-1" tvg-logo="http://1lot.tv/ch/6348.png" catchup="shift" catchup-days="1" ,Canal+ Sport [PL]
+http://s.only4.tv/6348/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="canal-pl-sport-2" tvg-logo="http://1lot.tv/ch/6349.png" catchup="shift" catchup-days="1" ,Canal+ Sport 2 HD [PL]
+http://s.only4.tv/6349/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="canal-pl-sport-3" tvg-logo="http://1lot.tv/ch/6350.png" catchup="shift" catchup-days="1" ,CANAL+ Sport 3 [PL]
+http://s.only4.tv/6350/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="canal-pl-sport-4" tvg-logo="http://1lot.tv/ch/6351.png" catchup="shift" catchup-days="1" ,CANAL+ Sport 4 [PL]
+http://s.only4.tv/6351/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="CBSReality.pl" tvg-logo="http://1lot.tv/ch/6352.png" catchup="shift" catchup-days="1" ,CBS Reality [PL]
+http://s.only4.tv/6352/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="Cinemax2.pl" tvg-logo="http://1lot.tv/ch/6353.png" catchup="shift" catchup-days="1" ,Cinemax 2 [PL]
+http://s.only4.tv/6353/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="Cinemax.pl" tvg-logo="http://1lot.tv/ch/6354.png" catchup="shift" catchup-days="1" ,Cinemax HD [PL]
+http://s.only4.tv/6354/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="comedy-central-pl" tvg-logo="http://1lot.tv/ch/6355.png" catchup="shift" catchup-days="1" ,Comedy central HD [PL]
+http://s.only4.tv/6355/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="ci-polsat" tvg-logo="http://1lot.tv/ch/6356.png" catchup="shift" catchup-days="1" ,Crime and Investigation [PL]
+http://s.only4.tv/6356/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="Discovery.pl" tvg-logo="http://1lot.tv/ch/6357.png" catchup="shift" catchup-days="1" ,Discovery [PL]
+http://s.only4.tv/6357/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="DiscoveryHistoria.pl" tvg-logo="http://1lot.tv/ch/6358.png" catchup="shift" catchup-days="1" ,Discovery Historia [PL]
+http://s.only4.tv/6358/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="DiscoveryLife.pl" tvg-logo="http://1lot.tv/ch/6359.png" catchup="shift" catchup-days="1" ,Discovery Life [PL]
+http://s.only4.tv/6359/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="DiscoveryScience.pl" tvg-logo="http://1lot.tv/ch/6360.png" catchup="shift" catchup-days="1" ,Discovery Science [PL]
+http://s.only4.tv/6360/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="Domo.pl" tvg-logo="http://1lot.tv/ch/6361.png" catchup="shift" catchup-days="1" ,Domo TV [PL]
+http://s.only4.tv/6361/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="E.pl" tvg-logo="http://1lot.tv/ch/6362.png" catchup="shift" catchup-days="1" ,E! Entertainment [PL]
+http://s.only4.tv/6362/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="ElevenSport1.pl" tvg-logo="http://1lot.tv/ch/6363.png" catchup="shift" catchup-days="1" ,Eleven Sports 1 HD [PL]
+http://s.only4.tv/6363/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="ElevenSport2.pl" tvg-logo="http://1lot.tv/ch/6364.png" catchup="shift" catchup-days="1" ,Eleven Sports 2 HD [PL]
+http://s.only4.tv/6364/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="ElevenSport3.pl" tvg-logo="http://1lot.tv/ch/6365.png" catchup="shift" catchup-days="1" ,Eleven Sports 3 HD [PL]
+http://s.only4.tv/6365/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="ElevenSport4.pl" tvg-logo="http://1lot.tv/ch/6366.png" catchup="shift" catchup-days="1" ,Eleven Sports 4 HD [PL]
+http://s.only4.tv/6366/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="Eurosport.pl" tvg-logo="http://1lot.tv/ch/6367.png" catchup="shift" catchup-days="1" ,Eurosport 1 HD [PL]
+http://s.only4.tv/6367/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="Eurosport2.pl" tvg-logo="http://1lot.tv/ch/6368.png" catchup="shift" catchup-days="1" ,Eurosport 2 HD [PL]
+http://s.only4.tv/6368/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="extreme-pl" tvg-logo="http://1lot.tv/ch/6369.png" catchup="shift" catchup-days="1" ,Extreme Sports [PL]
+http://s.only4.tv/6369/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="fightbox-pl" tvg-logo="http://1lot.tv/ch/6370.png" catchup="shift" catchup-days="1" ,FightBox [PL]
+http://s.only4.tv/6370/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="FightKlub.pl" tvg-logo="http://1lot.tv/ch/6371.png" catchup="shift" catchup-days="1" ,Fightklub HD [PL]
+http://s.only4.tv/6371/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="FilmBoxAction.pl" tvg-logo="http://1lot.tv/ch/6372.png" catchup="shift" catchup-days="1" ,FilmBox Action [PL]
+http://s.only4.tv/6372/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="FilmboxArthouse.pl" tvg-logo="http://1lot.tv/ch/6373.png" catchup="shift" catchup-days="1" ,Filmbox Arthouse [PL]
+http://s.only4.tv/6373/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="FilmBoxExtra.pl" tvg-logo="http://1lot.tv/ch/6374.png" catchup="shift" catchup-days="1" ,FilmBox Extra [PL]
+http://s.only4.tv/6374/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="FilmboxFamily.pl" tvg-logo="http://1lot.tv/ch/6375.png" catchup="shift" catchup-days="1" ,FilmBox Family [PL]
+http://s.only4.tv/6375/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="FilmboxPremium.pl" tvg-logo="http://1lot.tv/ch/6376.png" catchup="shift" catchup-days="1" ,FilmBox Premium [PL]
+http://s.only4.tv/6376/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="FoodNetwork.pl" tvg-logo="http://1lot.tv/ch/6377.png" catchup="shift" catchup-days="1" ,Food Network [PL]
+http://s.only4.tv/6377/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="FoxComedy.pl" tvg-logo="http://1lot.tv/ch/6378.png" catchup="shift" catchup-days="1" ,FX Comedy [PL]
+http://s.only4.tv/6378/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="FOX.pl" tvg-logo="http://1lot.tv/ch/6379.png" catchup="shift" catchup-days="1" ,FX HD [PL]
+http://s.only4.tv/6379/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="H2.pl" tvg-logo="http://1lot.tv/ch/6380.png" catchup="shift" catchup-days="1" ,H2 [PL]
+http://s.only4.tv/6380/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="HBO2.pl" tvg-logo="http://1lot.tv/ch/6381.png" catchup="shift" catchup-days="1" ,HBO 2 HD [PL]
+http://s.only4.tv/6381/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="HBO3.pl" tvg-logo="http://1lot.tv/ch/6382.png" catchup="shift" catchup-days="1" ,HBO 3 HD [PL]
+http://s.only4.tv/6382/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="HBO.pl" tvg-logo="http://1lot.tv/ch/6383.png" catchup="shift" catchup-days="1" ,HBO HD [PL]
+http://s.only4.tv/6383/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="HGTV.pl" tvg-logo="http://1lot.tv/ch/6384.png" catchup="shift" catchup-days="1" ,HGTV [PL]
+http://s.only4.tv/6384/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="History.pl" tvg-logo="http://1lot.tv/ch/6385.png" catchup="shift" catchup-days="1" ,HISTORY [PL]
+http://s.only4.tv/6385/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="JimJam.pl" tvg-logo="http://1lot.tv/ch/6386.png" catchup="shift" catchup-days="1" ,JimJam [PL]
+http://s.only4.tv/6386/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="KinoPolska.pl" tvg-logo="http://1lot.tv/ch/6387.png" catchup="shift" catchup-days="1" ,Kino Polska [PL]
+http://s.only4.tv/6387/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="KinoPolskaMuzyka.pl" tvg-logo="http://1lot.tv/ch/6388.png" catchup="shift" catchup-days="1" ,Kino Polska Muzyka [PL]
+http://s.only4.tv/6388/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="kino-tv-pl" tvg-logo="http://1lot.tv/ch/6389.png" catchup="shift" catchup-days="1" ,Kino TV [PL]
+http://s.only4.tv/6389/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="KuchniaPlus.pl" tvg-logo="http://1lot.tv/ch/6390.png" catchup="shift" catchup-days="1" ,Kuchnia+ HD [PL]
+http://s.only4.tv/6390/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="dtx-pl" tvg-logo="http://1lot.tv/ch/6391.png" catchup="shift" catchup-days="1" ,DTX [PL]
+http://s.only4.tv/6391/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="Minimini.pl" tvg-logo="http://1lot.tv/ch/6392.png" catchup="shift" catchup-days="1" ,MiniMini HD [PL]
+http://s.only4.tv/6392/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="MotowizjaTV.pl" tvg-logo="http://1lot.tv/ch/6393.png" catchup="shift" catchup-days="1" ,Motowizja [PL]
+http://s.only4.tv/6393/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="NatGeoWild.pl" tvg-logo="http://1lot.tv/ch/6394.png" catchup="shift" catchup-days="1" ,Nat Geo Wild HD [PL]
+http://s.only4.tv/6394/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="NatGeo.pl" tvg-logo="http://1lot.tv/ch/6395.png" catchup="shift" catchup-days="1" ,National Geographic HD [PL]
+http://s.only4.tv/6395/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="canal-pl-sport-5" tvg-logo="http://1lot.tv/ch/6396.png" catchup="shift" catchup-days="1" ,Canal+ Sport 5 HD [PL]
+http://s.only4.tv/6396/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="PlanetePlus.pl" tvg-logo="http://1lot.tv/ch/6397.png" catchup="shift" catchup-days="1" ,Planete+ HD [PL]
+http://s.only4.tv/6397/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="Polsat2.pl" tvg-logo="http://1lot.tv/ch/6398.png" catchup="shift" catchup-days="1" ,Polsat 2 HD [PL]
+http://s.only4.tv/6398/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="PolsatCafe.pl" tvg-logo="http://1lot.tv/ch/6399.png" catchup="shift" catchup-days="1" ,Polsat Cafe HD [PL]
+http://s.only4.tv/6399/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="PolsatDoku.pl" tvg-logo="http://1lot.tv/ch/6400.png" catchup="shift" catchup-days="1" ,Polsat Doku [PL]
+http://s.only4.tv/6400/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="PolsatFilm.pl" tvg-logo="http://1lot.tv/ch/6401.png" catchup="shift" catchup-days="1" ,Polsat Film HD [PL]
+http://s.only4.tv/6401/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="Polsat.pl" tvg-logo="http://1lot.tv/ch/6402.png" catchup="shift" catchup-days="1" ,Polsat HD [PL]
+http://s.only4.tv/6402/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="PolsatMusic.pl" tvg-logo="http://1lot.tv/ch/6403.png" catchup="shift" catchup-days="1" ,Polsat Music [PL]
+http://s.only4.tv/6403/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="PolsatNews2.pl" tvg-logo="http://1lot.tv/ch/6404.png" catchup="shift" catchup-days="1" ,Polsat News 2 [PL]
+http://s.only4.tv/6404/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="PolsatNews.pl" tvg-logo="http://1lot.tv/ch/6405.png" catchup="shift" catchup-days="1" ,Polsat News HD [PL]
+http://s.only4.tv/6405/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="PolsatPlay.pl" tvg-logo="http://1lot.tv/ch/6406.png" catchup="shift" catchup-days="1" ,Polsat Play HD [PL]
+http://s.only4.tv/6406/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="PolsatRodzina.pl" tvg-logo="http://1lot.tv/ch/6407.png" catchup="shift" catchup-days="1" ,Polsat RODZINA [PL]
+http://s.only4.tv/6407/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="PolsatSport.pl" tvg-logo="http://1lot.tv/ch/6408.png" catchup="shift" catchup-days="1" ,Polsat Sport [PL]
+http://s.only4.tv/6408/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="PolsatSportExtra.pl" tvg-logo="http://1lot.tv/ch/6409.png" catchup="shift" catchup-days="1" ,Polsat Sport Extra [PL]
+http://s.only4.tv/6409/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="PolsatSportPremium1.pl" tvg-logo="http://1lot.tv/ch/6410.png" catchup="shift" catchup-days="1" ,Polsat Sport Premium 1 [PL]
+http://s.only4.tv/6410/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="PolsatSportPremium2.pl" tvg-logo="http://1lot.tv/ch/6411.png" catchup="shift" catchup-days="1" ,Polsat Sport Premium 2 [PL]
+http://s.only4.tv/6411/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="ScifiUniversal.pl" tvg-logo="http://1lot.tv/ch/6412.png" catchup="shift" catchup-days="1" ,Sci-Fi [PL]
+http://s.only4.tv/6412/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="SportKlub.pl" tvg-logo="http://1lot.tv/ch/6413.png" catchup="shift" catchup-days="1" ,Sport Klub [PL]
+http://s.only4.tv/6413/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="SundanceChannel.pl" tvg-logo="http://1lot.tv/ch/6414.png" catchup="shift" catchup-days="1" ,Sundance Channel HD [PL]
+http://s.only4.tv/6414/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="SuperPolsat.pl" tvg-logo="http://1lot.tv/ch/6415.png" catchup="shift" catchup-days="1" ,Super Polsat HD [PL]
+http://s.only4.tv/6415/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="Teletoon.pl" tvg-logo="http://1lot.tv/ch/6416.png" catchup="shift" catchup-days="1" ,Teletoon+ HD [PL]
+http://s.only4.tv/6416/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TLC.pl" tvg-logo="http://1lot.tv/ch/6417.png" catchup="shift" catchup-days="1" ,TLC [PL]
+http://s.only4.tv/6417/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="warner-pl" tvg-logo="http://1lot.tv/ch/6418.png" catchup="shift" catchup-days="1" ,Warner TV [PL]
+http://s.only4.tv/6418/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TravelChannel.pl" tvg-logo="http://1lot.tv/ch/6419.png" catchup="shift" catchup-days="1" ,Travel Channel [PL]
+http://s.only4.tv/6419/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TTV.pl" tvg-logo="http://1lot.tv/ch/6420.png" catchup="shift" catchup-days="1" ,TTV [PL]
+http://s.only4.tv/6420/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TV6.pl" tvg-logo="http://1lot.tv/ch/6421.png" catchup="shift" catchup-days="1" ,TV 6 [PL]
+http://s.only4.tv/6421/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TVPuls.pl" tvg-logo="http://1lot.tv/ch/6422.png" catchup="shift" catchup-days="1" ,TV Puls [PL]
+http://s.only4.tv/6422/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TVPuls2.pl" tvg-logo="http://1lot.tv/ch/6423.png" catchup="shift" catchup-days="1" ,TV Puls 2 [PL]
+http://s.only4.tv/6423/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TV4.pl" tvg-logo="http://1lot.tv/ch/6424.png" catchup="shift" catchup-days="1" ,TV4 HD [PL]
+http://s.only4.tv/6424/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TVN.pl" tvg-logo="http://1lot.tv/ch/6425.png" catchup="shift" catchup-days="1" ,TVN [PL]
+http://s.only4.tv/6425/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TVN24.pl" tvg-logo="http://1lot.tv/ch/6426.png" catchup="shift" catchup-days="1" ,TVN 24 [PL]
+http://s.only4.tv/6426/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TVN24Bis.pl" tvg-logo="http://1lot.tv/ch/6427.png" catchup="shift" catchup-days="1" ,TVN 24 BiS [PL]
+http://s.only4.tv/6427/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TVN7.pl" tvg-logo="http://1lot.tv/ch/6428.png" catchup="shift" catchup-days="1" ,TVN 7 [PL]
+http://s.only4.tv/6428/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TVNFabula.pl" tvg-logo="http://1lot.tv/ch/6429.png" catchup="shift" catchup-days="1" ,TVN Fabula [PL]
+http://s.only4.tv/6429/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TVNStyle.pl" tvg-logo="http://1lot.tv/ch/6430.png" catchup="shift" catchup-days="1" ,TVN Style [PL]
+http://s.only4.tv/6430/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TVNTurbo.pl" tvg-logo="http://1lot.tv/ch/6431.png" catchup="shift" catchup-days="1" ,TVN Turbo [PL]
+http://s.only4.tv/6431/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TVP1.pl" tvg-logo="http://1lot.tv/ch/6432.png" catchup="shift" catchup-days="1" ,TVP 1 HD [PL]
+http://s.only4.tv/6432/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TVP2.pl" tvg-logo="http://1lot.tv/ch/6433.png" catchup="shift" catchup-days="1" ,TVP 2 [PL]
+http://s.only4.tv/6433/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TVPABC.pl" tvg-logo="http://1lot.tv/ch/6434.png" catchup="shift" catchup-days="1" ,TVP ABC [PL]
+http://s.only4.tv/6434/index.m3u8?token=bRt6LkDtgn
+#EXTINF:-1 group-title="Polska" tvg-id="TVP.pl" tvg-logo="http://1lot.tv/ch/6435.png" catc
